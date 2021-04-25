@@ -1,0 +1,55 @@
+ h1{
+        font-size: 40px;
+        color:darkblue;
+  text-align: center;
+
+        
+}
+    
+    .resaltado{
+      color:lightseagreen;
+      
+    }
+
+h3{
+    font-size: 40px;
+  color:darkblue ;
+    
+    text-align: center
+}
+
+.si{
+    color:darkblue
+}
+
+
+img{
+  height: 250px;
+  width: 350px;
+
+
+}
+
+p{
+font-family: sans-serif
+
+}
+
+li{
+
+font-family: sans-serif
+}
+
+.no{
+
+  color: blue;
+font-size: 40px;
+}
+a{
+
+  color:rgb(199, 153, 69)}
+  *{
+
+scroll-behavior: smooth;
+
+  }
